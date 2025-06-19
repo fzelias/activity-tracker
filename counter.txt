@@ -1770,3 +1770,4 @@ past commit 100 4
 past commit 99 1
 past commit 99 2
 past commit 99 3
+past commit 99 4
